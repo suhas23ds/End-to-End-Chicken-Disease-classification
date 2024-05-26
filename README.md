@@ -1,1 +1,1 @@
-# End-to-End-Chicken-Disease-classification
+# End-to-End-Potato-Disease-classification
